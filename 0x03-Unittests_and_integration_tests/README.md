@@ -1,4 +1,5 @@
 # 0x03. Unittests and Integration Tests
+![f088970b450e82c881ea](https://github.com/user-attachments/assets/9456a407-4b77-415c-b59a-bea5ea881830)
 ---
 ## Description
 Unit testing is the process of testing that a particular function returns expected results for different set of inputs. A unit test is supposed to test standard inputs and corner cases. A unit test should only test the logic defined inside the tested function. Most calls to additional functions should be mocked, especially if they make network or database calls.
